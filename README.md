@@ -1,8 +1,8 @@
 # Scarlet Tape
 
-A Google Chro❌e extension when it's that ti❌e of the year and you're facing
-off against the tea❌ up North. Turns the letter that follows "L" into a
-red "X" e❌oji on all web pages.
+A Google Chro❌e extension for when it's that ti❌e of the year and you're facing
+off against the tea❌ up North. Turns the letter that follows "L" in the alphabet 
+into a red "X" e❌oji on all web pages.
 
 ## Installation
 
