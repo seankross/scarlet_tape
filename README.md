@@ -1,0 +1,19 @@
+# Scarlet Tape
+
+A Google Chro❌e extension when it's that ti❌e of the year and you're facing
+off against that tea❌ up North.
+
+## Installation
+
+1. Download the zip of this repository
+2. Unzip this repository
+3. Open Google Chro❌e
+4. Go to `chrome://extensions/`
+5. Check the "Developer ❌ode" box
+6. Click "Load unpacked extension..."
+7. Select the folder you unzipped
+8. Wobble in your shoes
+
+### License
+
+❌IT
